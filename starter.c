@@ -4,4 +4,5 @@ void main()
     printf("hello");
     printf("world");
     printf("world");
+    printf("world");
 }
